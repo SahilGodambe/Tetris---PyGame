@@ -23,6 +23,8 @@ If the project is imported in PyCharm, then the file can be run directly by sett
 
 ###### Note: The ```filepath``` and ```fontpath``` for the text files and fonts need to be updated according to the location of the project on the user's machine.
 
+##Demo
+https://youtu.be/VYmankYJfgk
 
 ## Screenshots
 
